@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# Demo App User Data
+ImageManagerDemo/ImageManagerDemo.xcodeproj/xcuserdata/
+ImageManagerDemo/ImageManagerDemo.xcodeproj/project.xcworkspace/xcuserdata/
+ImageManagerDemo/DerivedData/
